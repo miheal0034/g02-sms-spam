@@ -19,6 +19,6 @@ The files contained one message per line. Each line is composed by two columns: 
 
 To use the combined spam and Nigerian SMS datasets to build a prediction model that will accurately classify texts according to different categories of spam (Job interview spam, promo sales spam, grow finance spam) and nonspam messages.
 
-**Citation**
+**Citation Updated**
 
 - Data Science Nigeria (DSN), who worked on something more advanced [the Na-Lie App](https://www.datasciencenigeria.org/ai-commons-na-lie/)
